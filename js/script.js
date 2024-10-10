@@ -127,5 +127,16 @@ const handleSearchByCategory = () => {
 }
 
 
+// register button function 
+function scrollToRegisterSection() {
+    const section = document.getElementById("registerSection");
+  
+    if (section) {
+      // Scroll smoothly to the section
+      section.scrollIntoView({ behavior: "smooth" });
+    }
+  }
+  
+
 
 
