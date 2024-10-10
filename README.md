@@ -3,5 +3,5 @@
 
 ## live link: 
 
-<p align="center"></p>
+<p align="center">https://animated-malabi-668496.netlify.app/</p>
 
